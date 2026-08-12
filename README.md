@@ -1,0 +1,2 @@
+# staticweb
+Hosting Static Website
