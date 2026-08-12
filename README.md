@@ -1,2 +1,2 @@
-# staticweb
-Hosting Static Website
+# HOSTING A STATIC WEBSITE
+Steps to a Hosting Static Website
