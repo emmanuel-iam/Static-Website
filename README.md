@@ -1,6 +1,6 @@
 # ☁️ Azure Static Website Hosting
  ## 🎯 Project Objective
-The objective of this project is to demonstrate the process of configuring and deploying a static website in Microsoft Azure from the Azure Portal.
+The objective of this project is to demonstrate the process of configuring and deploying a Static Website in Microsoft Azure from the Azure Portal.
 
  ## 🛠️ Technologies Used
  ☁️ Microsoft Azure
@@ -8,8 +8,8 @@ The objective of this project is to demonstrate the process of configuring and d
 📦 Azure Blob Storage
 🌐 Azure Static Website Hosting
 💻 HTML
- ## Steps:
- Create a New Azure Resource
+ ## Steps
+ Create a New Azure Resource from
   Microsoft Azure Portal
 
     click  Create a resource   
@@ -18,13 +18,13 @@ The objective of this project is to demonstrate the process of configuring and d
   
   Search for a Storage Account
 
+    Click Create
+
 <img width="1067" height="446" alt="AZ2" src="https://github.com/user-attachments/assets/4797ac13-d37c-4fae-9d8c-6cb17d9f9952" />
  
  Create a New Storage Account
 
 <img width="751" height="394" alt="AZ3" src="https://github.com/user-attachments/assets/7ae9db73-dcd4-4760-951f-0f9658e3534b" />
-
- Create a Resource Group
 
 <img width="598" height="572" alt="AZ4" src="https://github.com/user-attachments/assets/850b9978-3bb4-4ecb-995a-3a27a37c3efd" />
 
@@ -32,16 +32,13 @@ The objective of this project is to demonstrate the process of configuring and d
 
 <img width="494" height="521" alt="AZ5" src="https://github.com/user-attachments/assets/9d34d482-907a-449e-8a7f-0c551f578cd3" />
 
- Review and Create the Storage Account
+    Click Go to resource
 
 <img width="583" height="291" alt="AZ6" src="https://github.com/user-attachments/assets/da2278e2-f2bc-4d65-a24b-90e63d3cda49" />
 
  Open the Deployed Storage Account
 
-<img width="1121" height="497" alt="AZ7" src="https://github.com/user-attachments/assets/1c549b80-7384-42da-b5aa-14a2773c46d9" />
-
- Enable Static Website Hosting
-
+    Data Storage -> Static Website -> Enable -> index document -> Error document path -> click save
 <img width="1121" height="497" alt="AZ7" src="https://github.com/user-attachments/assets/1c549b80-7384-42da-b5aa-14a2773c46d9" />
 
  Verify the Static Website Endpoint
@@ -50,9 +47,12 @@ The objective of this project is to demonstrate the process of configuring and d
 
  Create the Website HTML File
 
-<img width="1120" height="493" alt="AZ10" src="https://github.com/user-attachments/assets/15667a94-8e62-4c97-ba9a-174cd9066ab6" />
+    Overview -> Containers -> $web
 
- Open the $web Container
+<img width="1120" height="493" alt="AZ10" 
+src="https://github.com/user-attachments/assets/15667a94-8e62-4c97-ba9a-174cd9066ab6" />
+
+
 
 <img width="1112" height="399" alt="AZ11" src="https://github.com/user-attachments/assets/3d9c8c66-167b-42a8-86f6-87762139c1a4" />
 
