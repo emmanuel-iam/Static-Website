@@ -46,17 +46,24 @@ The objective of this project is to demonstrate the process of configuring and d
 <img width="1095" height="464" alt="AZ8" src="https://github.com/user-attachments/assets/ecb9257b-50c2-4074-938d-687bad7badf2" />
 
  Create the Website HTML File
+ 
+ Open editor and create a HTML file. Save file as index 
+ Upload index.html
+
+ <img width="728" height="299" alt="AZ9" src="https://github.com/user-attachments/assets/251a3b38-bdf0-479d-b7d5-2879bb2652e2" />
+
 
     Overview -> Containers -> $web
 
 <img width="1120" height="493" alt="AZ10" 
 src="https://github.com/user-attachments/assets/15667a94-8e62-4c97-ba9a-174cd9066ab6" />
 
-
+Open editor and create a HTML file. Save file as index 
+ Upload index.html
 
 <img width="1112" height="399" alt="AZ11" src="https://github.com/user-attachments/assets/3d9c8c66-167b-42a8-86f6-87762139c1a4" />
 
- Upload index.html
+Upload HTML file
 
 <img width="973" height="439" alt="AZ12" src="https://github.com/user-attachments/assets/b6911d31-65fd-4c64-8e5a-12d8be17c3fe" />
  
