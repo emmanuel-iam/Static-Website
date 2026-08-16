@@ -24,12 +24,15 @@ The objective of this project is to demonstrate the process of configuring and d
  
  Create a New Storage Account
 
+    Resource group -> Create new -> Name -> click OK
 <img width="751" height="394" alt="AZ3" src="https://github.com/user-attachments/assets/7ae9db73-dcd4-4760-951f-0f9658e3534b" />
 
+    Storage account name -> click Review+create
 <img width="598" height="572" alt="AZ4" src="https://github.com/user-attachments/assets/850b9978-3bb4-4ecb-995a-3a27a37c3efd" />
 
  Configure the Storage Account
 
+    click Create
 <img width="494" height="521" alt="AZ5" src="https://github.com/user-attachments/assets/9d34d482-907a-449e-8a7f-0c551f578cd3" />
 
     Click Go to resource
@@ -39,7 +42,7 @@ The objective of this project is to demonstrate the process of configuring and d
  Open the Deployed Storage Account
 
     Data Storage -> Static Website -> Enable -> index document -> Error document path -> click save
-<img width="1121" height="497" alt="AZ7" src="https://github.com/user-attachments/assets/1c549b80-7384-42da-b5aa-14a2773c46d9" />
+<img width="835" height="370" alt="AZ7" src="https://github.com/user-attachments/assets/ab0f8190-95d9-4cd9-9520-42e2b7229df8" />
 
  Verify the Static Website Endpoint
 
@@ -52,22 +55,24 @@ The objective of this project is to demonstrate the process of configuring and d
  <img width="728" height="299" alt="AZ9" src="https://github.com/user-attachments/assets/251a3b38-bdf0-479d-b7d5-2879bb2652e2" />
 
 
-    Overview -> Containers -> $web
+    Azure Portal Overview -> Containers -> $web
 
 <img width="1120" height="493" alt="AZ10" 
 src="https://github.com/user-attachments/assets/15667a94-8e62-4c97-ba9a-174cd9066ab6" />
 
 Upload index.html
 
+    Upload -> Browse for files -> Upload
 <img width="1112" height="399" alt="AZ11" src="https://github.com/user-attachments/assets/3d9c8c66-167b-42a8-86f6-87762139c1a4" />
 
 From Static website page copy the Primary Website Endpoint
 
+    copy the Primary Website Endpoint
 <img width="973" height="439" alt="AZ12" src="https://github.com/user-attachments/assets/b6911d31-65fd-4c64-8e5a-12d8be17c3fe" />
  
  Verify the Website Deployment
+<img width="841" height="362" alt="AZ13" src="https://github.com/user-attachments/assets/b5cf1cb1-55fc-4372-82c3-bcea497d941e" />
 
-<img width="1055" height="464" alt="AZ13" src="https://github.com/user-attachments/assets/99629120-2155-420e-a4c2-af109a8e0eed" />
 
  
 
